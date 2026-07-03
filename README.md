@@ -3,13 +3,16 @@
 
 ## 页面展示
 
-### 动作列表
+### 页面截图
 
-![动作列表](wechat/image/web-list.png)
+<p>
+  <img src="showcase/web-list.png" alt="动作列表" width="49%" />
+  <img src="showcase/web-detail.png" alt="动作详情" width="49%" />
+</p>
 
-### 动作详情
+### 视频演示
 
-![动作详情](wechat/image/web-detail.png)
+<video src="showcase/web.mp4" controls width="100%"></video>
 
 ## Web 项目运行
 
