@@ -5,10 +5,8 @@
 
 ### 页面截图
 
-<p>
-  <img src="showcase/web-list.png" alt="动作列表" width="49%" />
-  <img src="showcase/web-detail.png" alt="动作详情" width="49%" />
-</p>
+<img src="showcase/web-list.png" alt="动作列表" />
+<img src="showcase/web-detail.png" alt="动作详情" />
 
 ### 视频演示
 
