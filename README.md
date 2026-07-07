@@ -1,16 +1,16 @@
 # exercise
 健身库
 
-## 页面展示
+## 站在巨人的肩膀上
 
-### 页面截图
+这个项目使用了下面两个开源项目提供的能力：
 
-<img src="showcase/web-list.png" alt="动作列表" />
-<img src="showcase/web-detail.png" alt="动作详情" />
+- [JahelCuadrado/ExerciseGymGifsDB](https://github.com/JahelCuadrado/ExerciseGymGifsDB)：提供健身动作 GIF 资源。
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)：提供动作数据、分类、器械、目标肌群和多语言说明。
 
-### 视频演示
-
-<video src="showcase/web.mp4" controls width="100%"></video>
+## Web 页面展示
+<img src="showcase/web-list.png" alt="动作列表"  />
+<img src="showcase/web-detail.png" alt="动作详情"/>
 
 ## Web 项目运行
 
