@@ -10,7 +10,7 @@ import {
 
 const GIF_INDEX_URL =
   'https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/api/en/exercises.json';
-const LOCAL_EXERCISES_URL = '/data/exercises.json';
+const LOCAL_EXERCISES_URL = `${import.meta.env.BASE_URL}data/exercises.json`;
 
 interface GifIndexResponse {
   exercises: GifExercise[];
