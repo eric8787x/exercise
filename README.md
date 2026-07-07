@@ -12,6 +12,10 @@
 <img src="showcase/web-list.png" alt="动作列表"  />
 <img src="showcase/web-detail.png" alt="动作详情"/>
 
+## 在线预览
+
+https://eric8787x.github.io/exercise/
+
 ## Web 项目运行
 
 进入 Web 项目目录：
